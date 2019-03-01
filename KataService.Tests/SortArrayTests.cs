@@ -66,6 +66,7 @@ namespace Katas.SortArray
         {
             Assert.Equal(new int[] { 2, 3, 5, 8, 2, 4, 7, 8 }, _sortArrayKata.SortArray(new int[] { 2, 7, 3, 8, 2, 4, 5, 8}));
         }
+        
         [Fact]
         public void SortArrayTestWithNull()
         {
