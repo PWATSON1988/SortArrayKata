@@ -19,12 +19,9 @@ https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solut
 Completing the Kata 
 -------------------
 
-Once you have the solution downloaded, open the "SortArray.cs" class from within the "KataService" project.  This file contains an explanation of the task
-you are required to carry out.
+Once you have the solution downloaded, open the "SortArray.cs" class from within the "KataService" project.  This file contains an explanation of the task you are required to carry out.
 
-You will also find supplementary unit tests in "SortArrayTests.cs" within the "KataService.Tests" project.  These can be used to test your code to ensure 
-your solution is working correctly.  If there are any further tests you would like to add yourself to further test your code, please include them within the 
-space provided.
+You will also find supplementary unit tests in "SortArrayTests.cs" within the "KataService.Tests" project.  These can be used to test your code to ensure your solution is working correctly.  If there are any further tests you would like to add yourself to further test your code, please include them within the space provided.
 
 
 All done?
