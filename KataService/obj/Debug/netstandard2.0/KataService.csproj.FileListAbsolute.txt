@@ -1,0 +1,9 @@
+C:\Users\paul.watson\Desktop\Interview - Katas\KataService\bin\Debug\netstandard2.0\KataService.deps.json
+C:\Users\paul.watson\Desktop\Interview - Katas\KataService\bin\Debug\netstandard2.0\KataService.dll
+C:\Users\paul.watson\Desktop\Interview - Katas\KataService\bin\Debug\netstandard2.0\KataService.pdb
+C:\Users\paul.watson\Desktop\Interview - Katas\KataService\obj\Debug\netstandard2.0\KataService.csprojAssemblyReference.cache
+C:\Users\paul.watson\Desktop\Interview - Katas\KataService\obj\Debug\netstandard2.0\KataService.csproj.CoreCompileInputs.cache
+C:\Users\paul.watson\Desktop\Interview - Katas\KataService\obj\Debug\netstandard2.0\KataService.AssemblyInfoInputs.cache
+C:\Users\paul.watson\Desktop\Interview - Katas\KataService\obj\Debug\netstandard2.0\KataService.AssemblyInfo.cs
+C:\Users\paul.watson\Desktop\Interview - Katas\KataService\obj\Debug\netstandard2.0\KataService.dll
+C:\Users\paul.watson\Desktop\Interview - Katas\KataService\obj\Debug\netstandard2.0\KataService.pdb
